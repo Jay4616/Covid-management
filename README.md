@@ -1,4 +1,5 @@
+
 ##Covid Bed Slot Booking System
 
 
-# 6th sem project
+6th sem project
